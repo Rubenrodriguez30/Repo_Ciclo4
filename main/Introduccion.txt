@@ -1,0 +1,1 @@
+enviamos datos principales para conocer como se maneja la plataforma de Git y visualcod
